@@ -8,4 +8,4 @@ Olá ! Eu sou a Laura38490
   <imag height="180em" src="https://github=readme=stats.vercel.app/api/top.langs/?username=laura&layout=compact&langs_count=16&theme=dracula"/.>   
 </div>
 
-![Snake animaton](https://github.com/Laura38490/Laura38490/edit/main/README.md
+![Snake animaton](https://github.com/Laura38490/Laura38490/blog/cutput/github=contribution=grid=snake.svg)
